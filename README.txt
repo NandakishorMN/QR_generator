@@ -1,0 +1,1 @@
+the link to the streamlit app :-https://nanqrgenerator.streamlit.app/
